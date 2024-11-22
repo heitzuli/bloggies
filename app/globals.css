@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles/globals.css */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.accentFont {
+  font-family: "Sour Gummy", sans-serif;
+}
